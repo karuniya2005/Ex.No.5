@@ -34,7 +34,7 @@ Performance: Stable, but vibration spike detected on [Date]. Last Maintenance: [
 - **Generated Report Snippet:**  
 > "The CNC machine's performance has been stable, though a minor vibration spike was detected on [Date]. The last maintenance was performed on [Date]. The machine is operating within its normal parameters, but the anomaly should be monitored."
 
-![OIP (2)](https://github.com/user-attachments/assets/7c7e63f3-9ea0-4057-b30a-92ad287eb492)
+
 
 
 
@@ -54,7 +54,7 @@ Temperature: 75°C (normal), Vibration: 2.5 mm/s (spike detected), Energy: 15 kW
 > "Technical Analysis: The thermal telemetry indicates normal operating temperatures. However, the vibration sensor data shows a peak of 2.5 mm/s on [Date], which is atypical for this machine's operational baseline. This spike correlates with a recent log entry noting a bearing replacement. Further analysis of the vibration signature is recommended to prevent future component failure. Consider scheduling a follow-up inspection in one month."
 
 
-<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/e1d7d30e-0f57-4820-8687-2bda2f8727be" />
+![OIP (2)](https://github.com/user-attachments/assets/7c7e63f3-9ea0-4057-b30a-92ad287eb492)
 
 #### c) Few-Shot Prompting (Tabular Log of Activities)
 - **Template:**  
